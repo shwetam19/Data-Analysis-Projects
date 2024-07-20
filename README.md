@@ -1,5 +1,5 @@
 # Data Analysis with Python Projects
-Here, you'll find a collection of projects of data analytics using Python.
+Here, you'll find a collection of projects using Python and its libraries.
 
 ## Project Details
 
